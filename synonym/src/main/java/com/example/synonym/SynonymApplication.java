@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class MapsApplication {
+public class SynonymApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MapsApplication.class, args);
+		SpringApplication.run(SynonymApplication.class, args);
 	}
 
 
